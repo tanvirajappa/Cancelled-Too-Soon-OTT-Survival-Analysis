@@ -7,6 +7,7 @@ Streaming platforms invest millions of dollars into original content, yet many h
 
 Using a curated dataset of Netflix and Amazon Prime shows, this analysis explores how audience reception, marketing intensity, social engagement, production scale, genre complexity, and platform-related factors interact with renewal outcomes. The project concludes with strategic recommendations that could improve content performance and renewal success.
 
+![Dashboard](dashboard.png)
 ---
 
 ## Business Objective
