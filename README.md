@@ -74,7 +74,7 @@ A custom scoring framework was developed using publicly observable indicators su
 
 ---
 
-### 📋 Scoring Rubric
+### Scoring Rubric
 
 ![Scoring Rubric 1](scoringrubric1.png)
 
