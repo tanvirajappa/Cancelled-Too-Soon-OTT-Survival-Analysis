@@ -74,6 +74,24 @@ A custom scoring framework was developed using publicly observable indicators su
 
 ---
 
+### 📋 Scoring Rubric
+
+![Scoring Rubric 1](scoringrubric1.png)
+
+![Scoring Rubric 2](scoringrubric2.png)
+
+![Scoring Rubric 3](scoringrubric3.png)
+
+---
+
+## Supporting Analysis
+
+Additional analyses were conducted to explore relationships between ratings, marketing intensity, audience engagement, production scale, and renewal outcomes. These visualizations helped validate patterns observed in the dashboard and informed the final business recommendations.
+
+![Supporting Analysis](supportinganalysis.png)
+
+---
+
 ## Key Findings
 
 - Strong ratings alone did not guarantee renewal.
@@ -93,6 +111,10 @@ Based on the analysis, recommendations were proposed for OTT platforms to improv
 - Evaluating production costs alongside audience demand
 - Incorporating multiple performance indicators instead of relying on ratings alone
 - Using data-driven decision frameworks for future content investments
+
+![Business Recommendations](businessrecommendations1.png)
+![Business Recommendations](businessrecommendations2.png)
+
 
 ---
 
@@ -127,4 +149,5 @@ Based on the analysis, recommendations were proposed for OTT platforms to improv
 ---
 
 **Author:** 
+
 Tanvi Rajappa
