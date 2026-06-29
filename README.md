@@ -88,7 +88,7 @@ A custom scoring framework was developed using publicly observable indicators su
 
 Additional analyses were conducted to explore relationships between ratings, marketing intensity, audience engagement, production scale, and renewal outcomes. These visualizations helped validate patterns observed in the dashboard and informed the final business recommendations.
 
-![Supporting Analysis](supportinganalysis.png)
+![Supporting Analysis](supportinanalysis.png)
 
 ---
 
