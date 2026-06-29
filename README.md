@@ -17,7 +17,7 @@ To analyze the factors influencing whether streaming shows are renewed or cancel
 
 ## Live Project
 
-View the original Google Sheets project here:
+The original Google Sheets workbook can be viewed here:
 
 🔗 [View the project](https://docs.google.com/spreadsheets/d/1LJ6gYs8LJVCQdSmrqySF7cun3alPEo98o4jyM-YJfuQ/edit?usp=sharing)
 
