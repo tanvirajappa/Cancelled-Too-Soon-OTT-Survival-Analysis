@@ -46,13 +46,13 @@ The original Google Sheets workbook can be viewed here:
 
 ## 📊 Dashboard Highlights
 
-### Dashboard 1
+### Dashboard Overview 1
 ![Dashboard Overview 1](dashboard1.png)
 
-### Dashboard 2
+### Dashboard Overview 2
 ![Dashboard Overview 2](dashboard2.png)
 
-### Dashboard 3
+### Dashboard Overview 3
 ![Dashboard Overview 3](dashboard3.png)
 
 ---
