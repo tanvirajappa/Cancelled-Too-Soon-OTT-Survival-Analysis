@@ -7,7 +7,6 @@ Streaming platforms invest millions of dollars into original content, yet many h
 
 Using a curated dataset of Netflix and Amazon Prime shows, this analysis explores how audience reception, marketing intensity, social engagement, production scale, genre complexity, and platform-related factors interact with renewal outcomes. The project concludes with strategic recommendations that could improve content performance and renewal success.
 
-![Dashboard](dashboard1.png)
 ---
 
 ## Business Objective
@@ -42,6 +41,19 @@ The original Google Sheets workbook can be viewed here:
   - Fan Campaign Presence
   - Production Cost Tier
   - Renewal Status
+
+---
+
+## 📊 Dashboard Highlights
+
+### Dashboard 1
+![Dashboard 1](dashboard1.png)
+
+### Dashboard 2
+![Dashboard 2](dashboard2.png)
+
+### Dashboard 3
+![Dashboard 3](dashboard3.png)
 
 ---
 
